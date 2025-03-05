@@ -2,7 +2,7 @@
 
 # Roots of Sentiment: Tree-LSTMs vs Traditional Models in Semantic Representation
 
-This repository contains the code and experiments for **"Roots of Sentiment: Tree-LSTMs vs Traditional Models in Semantic Representation"** by Stephanie Drake. The project investigates how hierarchical models like Tree-LSTMs compare to traditional sequential models in sentiment classification tasks. 
+This repository contains the code and experiments for **"Roots of Sentiment: Tree-LSTMs vs Traditional Models in Semantic Representation"**. The project investigates how hierarchical models like Tree-LSTMs compare to traditional sequential models in sentiment classification tasks. 
 
 ## Overview
 
